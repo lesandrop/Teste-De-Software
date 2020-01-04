@@ -1,0 +1,14 @@
+Java - Tutorial Junit
+https://github.com/MooctestNJU/MOOCTEST-2019-Test-Competition
+
+
+Python -  unittest — Unit testing framework
+https://docs.python.org/3/library/unittest.html
+
+
+Python - Testing Your Code
+https://docs.python-guide.org/writing/tests/
+
+
+
+lesandrop at pucminas.br
