@@ -1,10 +1,15 @@
-# Teste de Software
-
+## Teste de Software
+## Informações da Disciplina
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
 * Turno: **Noturno**
 * Prof.: **Lesandro Ponciano**
 * Semestre: **2020.1**
 * Período: **7º período do curso**
+
+# Slides das Aulas Expositivas
+1. [Nivelamento](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-00-Nivelamento.pdf)
+2. [Teste na Qualidade de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-01-TesteNaQualidadeDeSoftware%20.pdf)
+3. [Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
 
 # Uso e contribuição com materiais
 
