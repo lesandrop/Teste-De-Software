@@ -12,4 +12,4 @@
 * [IEEE 829-2008 - IEEE Standard for Software and System Test Documentation](https://standards.ieee.org/standard/829-2008.html)
 
 
-Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas
+~ Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas ~
