@@ -7,9 +7,11 @@
 * Período: **7º período do curso**
 
 ## Slides das Aulas Expositivas
+
 1. [Nivelamento](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-00-Nivelamento.pdf)
-2. [Teste na Qualidade de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-01-TesteNaQualidadeDeSoftware%20.pdf)
-3. [Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
+1. [Teste na Qualidade de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-01-TesteNaQualidadeDeSoftware%20.pdf)
+1. [Introdução ao Teste de Software e sua Terminologia](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-02-Introdu%C3%A7%C3%A3oETerminologia.pdf)
+1. [Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
 
 ## Uso e contribuição com materiais
 
