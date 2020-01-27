@@ -2,7 +2,7 @@
 ## Informações da Disciplina
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
 * Turno: **Noturno**
-* Prof.: **Lesandro Ponciano**
+* Prof.: **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
 * Semestre: **2020.1**
 * Período: **7º período do curso**
 
