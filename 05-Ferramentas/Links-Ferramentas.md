@@ -1,4 +1,4 @@
-# Ferramentas que auxiliam no teste de software
+## Ferramentas que auxiliam no teste de software
 
 1. [Selenium](https://selenium.dev/)
 
