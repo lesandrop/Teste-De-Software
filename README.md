@@ -24,14 +24,16 @@ Fiz a curadoria de alguns materiais online sobre interação humano-computador. 
 
 ## Artigos Científicos
 
-Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md)  está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Porém, mudanças podem ocorrer e os detalhes de cada atividade são divulgados oportunamente.
+Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md)  está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209) . Porém, mudanças podem ocorrer e os detalhes de cada atividade são divulgados oportunamente.
+
+* [Lista de artigos candidados para o Debate Estruturado](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md)
 
 
 ## Uso e Contribuição com Materiais
 
-Neste repositório está o material que pode ser mantido público. Outros materiais, atividades, roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. 
+Neste repositório está o material da unidade curricular que pode ser mantido público. Trata-se de um material dinâmico, constantemente atualizado. Outros materiais, atividades, roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. 
 
-Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim da disciplina, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Serão levandos em  consideração quatro critérios engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Para saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](http://dx.doi.org/10.15346/hc.v1i2.12).
+Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Para saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](http://dx.doi.org/10.15346/hc.v1i2.12).
 
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
