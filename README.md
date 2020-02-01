@@ -30,6 +30,16 @@ Ao longo do semestre são realizadas atividades baseadas em artigos científicos
 
 * [Lista de artigos candidados para o Debate Estruturado](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md)
 
+## Competições de Teste de Software
+
+Teste de software é uma atividade desafiadora. Ao longo das aulas, os principais desafios serão discutidos. Pensando nos muitos estudantes que desejarão se engajar de forma profunda nesses desafios, organizei uma lista de maratonas de teste de software. 
+* Lista de [Software Testing Contests](https://github.com/lesandrop/Teste-De-Software/blob/master/00b-CompeticoesDeTeste/SoftwareTestingContests.md)
+* [Flyers](https://github.com/lesandrop/Teste-De-Software/tree/master/00b-CompeticoesDeTeste) de algumas competições
+
+Esse material é um histórico que permite consultar dados de maratonas que já ocorreram, qual foi o formato, sistema, linguagem de programação, etc. Também atualizarei com informações de novas competições que ocorrerão no ano corrente.
+
+Se você ficou muito interessado nisso, procure-me para conversarmos mais!
+
 
 ## Uso e Contribuição com Materiais
 
