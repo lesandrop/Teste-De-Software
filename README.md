@@ -8,7 +8,7 @@
 
 ## Slides das Aulas Expositivas
 
-1. [:notebook: Nivelamento](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-00-Nivelamento.pdf)
+0. [:notebook: Nivelamento](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-00-Nivelamento.pdf)
 1. [:notebook: Teste na Qualidade de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-01-TesteNaQualidadeDeSoftware%20.pdf)
 1. [:notebook: Introdução ao Teste de Software e sua Terminologia](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-02-Introdu%C3%A7%C3%A3oETerminologia.pdf)
 1. [:notebook: Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
