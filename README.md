@@ -14,7 +14,7 @@
 1. [:notebook: Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
 
 
-## Material online
+## Material Online
 
 Fiz a curadoria de alguns materiais online sobre teste de software. São materiais complementares e que considero úteis a essa unidade curricular. Esse material será contextualizado e indicado na aula apropriada. Entretanto, isso não impede que os estudantes explorem eles a qualquer tempo que desejarem -- é fortemente recomendado que o façam. Os materiais se encontram organizados nas seguintes categorias:
 
@@ -26,9 +26,9 @@ A lista de materiais é dinâmica, novos materiais podem adicionados e alguns p
 
 ## Artigos Científicos
 
-Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md)  está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Porém, mudanças podem ocorrer e os detalhes de cada atividade são divulgados oportunamente.
+Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md) está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Cada debate é baseado em dois artigos científicos. Porém, mudanças podem ocorrer e os detalhes de cada atividade são divulgados oportunamente.
 
-* [Lista de artigos candidados para o Debate Estruturado](https://github.com/lesandrop/Inter-Humano-Computador/blob/master/04-DebateEstruturado/Links-ArtigosCient%C3%ADficos.md)
+* [Lista de artigos candidados para o Debate Estruturado](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md)
 
 ## Competições de Teste de Software
 
@@ -47,5 +47,6 @@ Neste repositório está o material da unidade curricular que pode ser mantido p
 
 Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Para atribuição dos pontos serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Se desejar saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](http://dx.doi.org/10.15346/hc.v1i2.12).
 
+---
 
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
