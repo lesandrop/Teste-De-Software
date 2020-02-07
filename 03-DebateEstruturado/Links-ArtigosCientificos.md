@@ -16,7 +16,7 @@ Lista de artigos candidatos a serem debatidos no Debate Estruturado.
 1. [Search algorithms for regression test case prioritization](https://ieeexplore.ieee.org/abstract/document/4123325)
 
 1. [Studying the coevolution of production and test code in open source and industrial developer test
-processes through repository mining] (https://doi.org/10.1007/s10664-010-9143-7)
+processes through repository mining](https://doi.org/10.1007/s10664-010-9143-7)
 
 ---
 
