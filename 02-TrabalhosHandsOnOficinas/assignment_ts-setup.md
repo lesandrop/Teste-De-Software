@@ -1,6 +1,6 @@
 # Assignment  ts-setup #
 
-Para este assigment o estudante deve criar um issue no repositório gerado para o assignment. No texto do issue, o estudante deve prover respostas às seguintes perguntas.
+Para este _assignment_ o estudante deve criar um _issue_ no repositório gerado para o _assignment_. No texto do _issue_, o estudante deve prover respostas às seguintes perguntas.
 
 1. Quais práticas de teste de software o estudante conhece? Ex.: teste unitário, teste de integração, teste de regressão, etc.
 
