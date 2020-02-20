@@ -16,6 +16,9 @@ Neste _assignment_, os estudantes devem realizar uma análise de competições (
 
 1. Na sua opinião, quais conhecimentos de teste de software são mais exercitados (ou requeridos) para se participar e obter um bom desempenho na maratona?
 
+
+Para cumprir este _assignment_, o estudante deve criar um _issue_ no repositório gerado para o _assignment_; o repositório tem prefixo _assignment1n_. O título do _issue_ deve ser _Assignment #1_. No texto do _issue_, o estudante deve prover respostas às questões enumeradas acima.
+
 ---
 
-_Lesandro Ponciano (lesandrop at pucminas) PUC Minas_
+_Lesandro Ponciano (lesandrop at pucminas) - PUC Minas_
