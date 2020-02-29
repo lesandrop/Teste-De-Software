@@ -12,6 +12,7 @@
 1. [:notebook: Teste na Qualidade de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-01-TesteNaQualidadeDeSoftware%20.pdf)
 1. [:notebook: Introdução ao Teste de Software e sua Terminologia](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-02-Introdu%C3%A7%C3%A3oETerminologia.pdf)
 1. [:notebook: Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
+1. [:notebook: Estratégias de Teste Funcional de Software](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-04-TesteFuncional.pdf)
 
 
 ## Material Online
