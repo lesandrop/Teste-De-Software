@@ -13,7 +13,7 @@ Neste _assignment_ o estudante deve pesquisar 3 ferramentas disponíveis gratuit
 1. A qual dos seguintes tipos de teste de software a ferramenta está associada: a) Teste de Funcionalidade; b) Teste de Usabilidade; c) Teste de Performance; d) Teste de Segurança. Justifique.
 1. Quais são as limitações da ferramenta? Isto é, o que faria sentido que ela fizesse, mas que ela não faz.
 
-* O estudante pode usar até 2 das ferramentas entre aqueles que [já foram enumerados pelo professor](https://github.com/ihc-puc-20201/Inter-Humano-Computador/blob/master/02-TrabalhosHandsOnOficinas/SistemasDoPassado.md). A terceira ferramenta deve ser identificado pelo estudante.
+* O estudante pode usar até 2 das ferramentas entre aqueles que [já foram enumerados pelo professor](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/05-Ferramentas/Links-Ferramentas.md). A terceira ferramenta deve ser identificado pelo estudante.
 
 * Para realizar a entrega, o estudante usar o repositório criado para o _assignment 1_, o repositório tem prefixo _assignment1n_. Nesse repositório, o estudante deve criar uma pasta chamada "FerramentasDeTeste". Dentro desta pasta, o estudante deve criar um arquivo _markdown_ para cada uma das ferramentas analisadas. Ou seja, devem ser criados 3 arquivos. Cada arquivo deve ter o nome da ferramenta a que ele se refere. Dentro do arquivo deve-se prover as respostas para cada uma das questões apresentadas acima. As respostas do estudante devem ser formatadas usando a linguagem markdown.
 
