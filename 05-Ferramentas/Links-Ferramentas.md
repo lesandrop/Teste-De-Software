@@ -6,8 +6,11 @@
 
 1. [Gauge & Taiko](https://gauge.org/gauge-taiko/)
 
-1. [Best 25 Teste Management Tools in 2020](https://www.guru99.com/top-20-test-management-tools.html)
+1. [Testpad](https://ontestpad.com/)
 
+1. [TestLink](https://sourceforge.net/projects/testlink/)
+
+1. [qTest](https://www.qasymphony.com/software-testing-tools/qtest-manager/test-case-management)
 
 
 ---
