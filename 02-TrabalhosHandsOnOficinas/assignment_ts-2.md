@@ -7,7 +7,7 @@ Neste _assignment_ o estudante deve pesquisar 3 ferramentas gratuitas ou que sej
 * Para cada uma das ferramentas pesquisadas, o estudante deve informar:
 
 1. Qual é o nome da ferramenta?
-1. Qual é o link (ou links) de onde as informações sobre ele foram obtidas?
+1. Qual é o link (ou links) de onde as informações sobre ela foram obtidas?
 1. Apresente 3 das principais funcionalidades providas pela ferramenta.
 1. Descreva em quais das seguintes etapas a ferramenta pode ser usada: a) criação de casos de teste; b) implementação de testes; c) gerência de caso de teste; d) execução de casos de teste. Exemplifique.
 1. A ferramenta está associada a qual dos seguintes *níveis* de teste de software?: a) Teste de Unidade; b) Teste de Integração; c) Teste de Sistema; d) Teste de Aceitação. Exemplifique.
