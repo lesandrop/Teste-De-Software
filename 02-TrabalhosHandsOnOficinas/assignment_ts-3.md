@@ -19,27 +19,26 @@ Neste _assignment_ o estudante deve exercitar seus conhecimentos de teste estrut
 
 ## Lista de Problemas
 
-Dada uma sequência de n números inteiros fornecidos pelo usuário, determinar um segmento de soma máxima. Exemplo: Na sequência 5, 2, -2, -7, 3, 14, 10, -3, 9, -6, 4, 1, a soma do segmento é 33, pois o segmento de soma máxima é 3, 14, 10, -3, 9. O método deve: 
-a) se chamar somaMaxima
-a) receber como parâmetro um vetor de inteiros vetor
-a) retornar um valor inteiro que é a soma do segmento de soma máxima 
+1. Dada uma sequência de n números inteiros fornecidos pelo usuário, determinar um segmento de soma máxima. Exemplo: Na sequência 5, 2, -2, -7, 3, 14, 10, -3, 9, -6, 4, 1, a soma do segmento é 33, pois o segmento de soma máxima é 3, 14, 10, -3, 9. O método deve: 
+	* se chamar somaMaxima
+	* receber como parâmetro um vetor de inteiros vetor
+	* retornar um valor inteiro que é a soma do segmento de soma máxima 
 
-Um método calcula a média dos valores que estão na interseção entre dois conjuntos. Dessa forma, o método recebe dois vetores de tamanho m e n, respectivamente.  Após isso, verificar os valores presentes nos dois vetores e calcular a média deles. Ex: se vetor1=[19, 5, 2, 6] e vetor2=[5, 0, 9, 4, 18, 56], deverá ser impresso o valor 5. De outro modo, se vetor1=[1, 3, 2, 6] e vetor2=[7, 0, 9, 4, 3, 1], deverá ser impresso o valor 2. Nesse caso, os vetores são conjuntos, ou não, eles não possuem valores iguais. O método deve:
-a) se chamar mediaIntesercao
-a) receber como parâmetro m e n, vetor1 e vetor2
-a) retornar o valor float que é da média dos valores na interseção entre os dois conjuntos
+1. Um método calcula a média dos valores que estão na interseção entre dois conjuntos. Dessa forma, o método recebe dois vetores de tamanho m e n, respectivamente.  Após isso, verificar os valores presentes nos dois vetores e calcular a média deles. Ex: se vetor1=[19, 5, 2, 6] e vetor2=[5, 0, 9, 4, 18, 56], deverá ser impresso o valor 5. De outro modo, se vetor1=[1, 3, 2, 6] e vetor2=[7, 0, 9, 4, 3, 1], deverá ser impresso o valor 2. Nesse caso, os vetores são conjuntos, ou não, eles não possuem valores iguais. O método deve:
+	* se chamar mediaIntesercao
+	* receber como parâmetro m e n, vetor1 e vetor2
+	* retornar o valor float que é da média dos valores na interseção entre os dois conjuntos
 
-Um número perfeito é um número inteiro cuja soma de seus divisores (excluído o próprio número) coincide com o número. Esse é o caso, por exemplo, do número 28, em que os números 1, 2, 4, 7 e 14 são seus divisores e a soma desses divisores dá 28. Faça um método que verifica se um número é perfeito ou não. O método deve:
-a) se chamar numeroPerfeito
-a) receber como parâmetro um valor inteiro num
-a) retornar um valor booleano que é True, quando o número é perfeito e é False, quando o número não é perfeito
+1. Um número perfeito é um número inteiro cuja soma de seus divisores (excluído o próprio número) coincide com o número. Esse é o caso, por exemplo, do número 28, em que os números 1, 2, 4, 7 e 14 são seus divisores e a soma desses divisores dá 28. Faça um método que verifica se um número é perfeito ou não. O método deve:
+	* se chamar numeroPerfeito
+	* receber como parâmetro um valor inteiro num
+	* retornar um valor booleano que é True, quando o número é perfeito e é False, quando o número não é perfeito
 
-Em domínio de negócio, um identificador para ser considero válido deve: 1) começar com uma letra; 2) conter apenas letras ou dígitos; 3) ter no mínimo 1 caractere e no máximo 6 caracteres de comprimento. Exemplo: “abc12” (válido), “cont*1” (inválido), “1soma” (inválido) e “a123456” (inválido). Faça um método que verifica se um identificador é válido ou não. O método deve:
-a) se chamar validaID
-a) receber como parâmetro uma sequência de caracteres é que o identificador id
-a) retornar um valor booleano que é True, quando o identificador é válido e é False, quando o identificador não é válido
-
-
+1. Em domínio de negócio, um identificador para ser considero válido deve: 1) começar com uma letra; 2) conter apenas letras ou dígitos; 3) ter no mínimo 1 caractere e no máximo 6 caracteres de comprimento. Exemplo: “abc12” (válido), “cont*1” (inválido), “1soma” (inválido) e “a123456” (inválido). Faça um método que verifica se um identificador é válido ou não. O método deve:
+	* se chamar validaID
+	* receber como parâmetro uma sequência de caracteres é que o identificador id
+	* retornar um valor booleano que é True, quando o identificador é válido e é False, quando o identificador não é válido
+	
 ---
 
 _Lesandro Ponciano (lesandrop at pucminas) - PUC Minas_
