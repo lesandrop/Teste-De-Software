@@ -12,7 +12,7 @@ Neste _assignment_ o estudante deve exercitar seus conhecimentos de teste estrut
 
 * Para realizar a entrega, o estudante deve usar o repositório criado para o _assignment 1_, o repositório tem prefixo _assignment1n_. Nesse repositório, o estudante deve criar uma pasta chamada *TesteEstrutural*. Dentro dessa pasta, o estudante deve colocar duas coisas: 1) um arquivo _markdown_ no qual deve apresentar os artefatos gerados (grafo, cálculos, caminhos, casos de teste) e 2) uma pasta chamada *codigo* que deve conter todos os códigos implementados (solução do problema computacional e suíte de testes).
 
-* **Quais são os dois problemas computacionais que devo usar e para os quais eu devo implementar a solução?** Resposta: Você implementará a solução para dois dos quatro problemas apresentados na lista abaixo. Se o último número da sua matricula for par (ou zero), você usará no _assignment_ os problemas de número 1 e 2. Se o último número da sua matricula for impar, você usará no  _assignment_ os problemas de número 2 e 4. 
+* **Quais são os dois problemas computacionais que devo usar e para os quais eu devo implementar a solução?** Resposta: Você implementará a solução para dois dos quatro problemas apresentados na lista abaixo. Se o último número da sua matricula for par (ou zero), você usará no _assignment_ os problemas de número 1 e 2. Se o último número da sua matricula for impar, você usará no  _assignment_ os problemas de número 3 e 4. 
 
 * **Qual linguagem de programação devo usar?** Resposta: A linguagem de programação que você desejar. Recomendo que você use a linguagem Python. Criei um [exemplo simples](https://github.com/TS-puc-20201/Teste-De-Software/tree/master/01-SlidesDasAulas/TS-06-C%C3%B3digo) de como fazer em Python. Para esse exemplo, usei um dos problemas que resolvemos na aula de Teste Estrutural.
 
@@ -33,6 +33,7 @@ Neste _assignment_ o estudante deve exercitar seus conhecimentos de teste estrut
 	* se chamar _mediaIntersecao_
 	* receber como parâmetro _m_ e _n_, _vetor1_ e _vetor2_
 	* retornar o valor _float_ que é da média dos valores na interseção entre os dois conjuntos
+	* retornar o valor 0 se não houver interseção
 
 1. Em um dado domínio de negócio, um identificador (id) para ser considero válido deve: 1) começar com uma letra; 2) conter apenas letras ou dígitos; 3) ter no mínimo 1 caractere e no máximo 6 caracteres de comprimento. Exemplo: "abc12" é válido; "cont\*1" é inválido; "1soma" é inválido; e, "a123456" é inválido. Faça um método que verifica se um identificador é válido ou inválido. O método deve:
 	* se chamar _validaID_
