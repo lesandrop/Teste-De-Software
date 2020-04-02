@@ -16,6 +16,13 @@
 1. [:notebook: Estratégias de Teste Estrutural de Software](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-05-TesteEstrutural.pdf)
 
 
+## Assignments e Hands-on
+
+1. [Assignment  ts-setup](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-setup.md): Introdução a teste de software
+1. [Assignment  1](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-1.md): Análise de competições de teste de software
+1. [Assignment  2](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-2.md): Análise de ferramentas usadas em Teste de Software
+1. [Assignment  3](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-3.md): Análise, Derivação e Implementação de Teste Estrutural
+
 ## Material Online
 
 Fiz a curadoria de alguns materiais online sobre teste de software. São materiais complementares e que considero úteis a essa unidade curricular. Esse material será contextualizado e indicado na aula apropriada. Entretanto, isso não impede que os estudantes explorem eles a qualquer tempo que desejarem -- é fortemente recomendado que o façam. Os materiais se encontram organizados nas seguintes categorias:
