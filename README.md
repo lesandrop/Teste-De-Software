@@ -14,6 +14,8 @@
 1. [:notebook: Atividades e Níveis de Teste em Processos de Desenvolvimento de Software](https://github.com/lesandrop/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-03-TesteNoProcessoDeDesenvolvimento.pdf)
 1. [:notebook: Estratégias de Teste Funcional de Software](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-04-TesteFuncional.pdf)
 1. [:notebook: Estratégias de Teste Estrutural de Software](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-05-TesteEstrutural.pdf)
+1. [:notebook: Complexidade Ciclomática para Teste Estrutural de Software](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-06-ComplexidadeCiclomaticaTeste.pdf)
+1. [:notebook: Depuração de Software (Debugging)](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-07-Debugging.pdf)
 
 
 ## Assignments e Hands-on
