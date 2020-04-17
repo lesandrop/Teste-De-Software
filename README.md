@@ -17,6 +17,8 @@
 1. [:notebook: Complexidade Ciclomática para Teste Estrutural de Software](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-06-ComplexidadeCiclomaticaTeste.pdf)
 1. [:notebook: Depuração de Software (Debugging)](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-07-Debugging.pdf)
 1. [:notebook: Teste de Mutação](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-08-TesteDeMuta%C3%A7%C3%A3o.pdf)
+1. [:notebook: Estimativas, Medidas, Métricas e Indicadores em Gestão de Processo de Teste](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-09-EstimativaMedidaMetricaIndicadorGestaoTesteSoftware.pdf)
+
 
 ## Assignments e Hands-on
 
