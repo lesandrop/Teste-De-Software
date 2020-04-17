@@ -3,7 +3,8 @@
 ## Atividade de Teste de Mutação
 
 Neste _assignment_ o estudante deve exercitar seus conhecimentos de Teste de Mutação. Para isso ele deve:
-1. Responder as seguintes perguntas
+1. Responder as seguintes perguntas:
+
 		1. O que é um "mutante" em teste de software?
 		1. O que é um operador de mutação?
 		1. Em que consiste o Teste de Mutação?
@@ -11,6 +12,7 @@ Neste _assignment_ o estudante deve exercitar seus conhecimentos de Teste de Mut
 		1. Como é calculado o "mutation score"?
 		1. O que o valor do "mutation score" indica?
 1. Considerando o problemas que o aluno resolveu no [Assignment 3](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-3.md), ele deve:
+
 		1. Identificar e descrever um framework para teste de mutação na linguagem que ele usou. Se não existir, recomendo tentar mudar a linguagem.
 		1. Seguir o processo de teste de mutação nas soluções implementadas e gerar uma nova suíte de testes que tenha um mutation score de 100%.
 		1. Caso tenham surgidos mutantes equivalentes, eles devem ser apresentados e explicados.
