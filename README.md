@@ -24,6 +24,7 @@
 1. [Assignment  1](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-1.md): Análise de competições de teste de software
 1. [Assignment  2](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-2.md): Análise de ferramentas usadas em Teste de Software
 1. [Assignment  3](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-3.md): Análise, Derivação e Implementação de Teste Estrutural
+1. [Assignment  4](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-4.md): Análise e Execução e Implementação de Teste de Mutação
 
 ## Material Online
 
