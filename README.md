@@ -42,8 +42,8 @@ A lista de materiais é dinâmica, novos materiais podem adicionados e alguns p
 
 Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md) está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Cada debate é baseado em dois artigos científicos. As informações dos debates estão disponíveis abaixo:
 
-* [Debate Estruturado 1](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/03-DebateEstruturado/TS-DebateEstruturado1.pdf)
-* [Debate Estruturado 2]
+* [Debate Estruturado 1](https://github.com/lesandropcodes/Teste-De-Software/blob/master/03-DebateEstruturado/TS-DebateEstruturado1.pdf)
+* [Debate Estruturado 2](https://github.com/lesandropcodes/Teste-De-Software/blob/master/03-DebateEstruturado/TS-DebateEstruturado2.pdf)
 
 ## Competições de Teste de Software
 
