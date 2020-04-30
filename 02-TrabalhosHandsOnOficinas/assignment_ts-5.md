@@ -3,7 +3,7 @@
 ## Atividade de Teste na Camada de Domínio
 
 Neste _assignment_ o estudante deve exercitar seus conhecimentos de teste estrutural. Para isso, ele deve:
-1. Implementar pelo menos 5 funções da camada de domínio de um mesmo sistema. Sendo funções de um mesmo sistema, é importante se atentar às boas práticas de projeto de software.
+1. Implementar pelo menos 5 funções da camada de domínio de um mesmo sistema; são funções que agreguem valor ao usuário. Sendo essas funções de um mesmo sistema, é importante se atentar às boas práticas de projeto de software.
 1. Para cada função implementada, o estudante deve implementar a suite de testes que aumente a confiança de que a implementação está livre de defeitos. Para isso, deve-se seguir as técnicas estudadas na disciplina.
 
 * Para realizar a entrega, o estudante deve usar o repositório criado para o _assignment 1_, o repositório tem prefixo _assignment1n_. Nesse repositório, o estudante deve criar uma pasta chamada *TesteSistema*. Dentro dessa pasta, o estudante deve colocar o código implementado e a suíte de testes criada.
