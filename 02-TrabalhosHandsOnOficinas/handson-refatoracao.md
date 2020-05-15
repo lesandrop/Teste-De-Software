@@ -12,7 +12,7 @@ Neste hands-on, o aluno deve exercitar o conhecimento sobre maus cheiros, teste 
 
 1. Escrever um texto dentro do qual o aluno apresenta cada um dos três maus cheiros (print do código) e apresenta os códigos refatorados (prints dos códigos) e de eventuais mudanças que tenham sido feitas na suite de testes (prints da suite de testes). Tudo isso deve ser devidamente explicado no texto.
 
-Na etapa 1, o aluno pode usar códigos open-source feitos por terceiros, códigos feitos por ele mesmo na disciplina ou em outras disciplinas. É fundamental que o código já tenha uma suíte de testes de modo a garantir que o comportamento do software não será alterado ao se solucionar os maus cheiros.
+Na etapa 1, o aluno pode usar códigos open-source feitos por terceiros, códigos feitos por ele mesmo na disciplina ou em outras disciplinas. É fundamental que o código já tenha uma suíte de testes de modo a garantir que o comportamento do software não será alterado ao se solucionar os maus cheiros. Dois alunos não podem trabalhar no mesmo código então, se você for reusar algum código de terceiros ou feito por você com terceiros, certifique-se de que o seu colega não está reusando o mesmo código.
 
 O aluno deve entregar: 1) todo o código final corrigido e funcional (com a suíte de testes) incluindo as partes que foram alteradas e outras partes do código que não foram alteradas, pois o código deverá estar executando; 2) o texto a que se refere a etapa 4. O código pode ser postado em uma pasta chamada "Refatoração" no repositório no Github do aluno, no GitHub Classroom. O texto a que se refere a etapa 4 deve ser postado no SGA. Todo o trabalho e postagens devem ser feitas até 20h40 de 15/05/2020.
 
