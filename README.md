@@ -32,6 +32,9 @@
 1. [Assignment  3](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-3.md): Análise, Derivação e Implementação de Teste Estrutural
 1. [Assignment  4](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-4.md): Análise e Execução e Implementação de Teste de Mutação
 1. [Assignment 5](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-5.md): Teste na Camada de Domínio
+1. [Assignment 6](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-6.md): Testes na Camada de Domínio e TDD
+1. [Assignment 7](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-7.md): Implementação na Camada de Domínio e TDD
+1. [Assignment 8](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-8.md): Refatoração
 
 ## Material Online
 
