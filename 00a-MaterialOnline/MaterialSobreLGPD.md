@@ -14,4 +14,6 @@ A LGPD (Lei nº 13.709/2018) está para entrar em vigor no Brasil. Este arquivo 
 
 ## Sites ##
 * [Serpro e LGPD: segurança e inovação](https://www.serpro.gov.br/lgpd)
+
+---
 _Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
