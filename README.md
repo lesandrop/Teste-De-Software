@@ -3,7 +3,7 @@
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
 * Turno: **Noturno**
 * Prof.: **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
-* Semestre: **2020.1**
+* Semestre: **2020.2**
 * Período: **7º período do curso**
 
 ## Slides das Aulas Expositivas
@@ -26,15 +26,7 @@
 
 ## Assignments e Hands-on
 
-1. [Assignment  ts-setup](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-setup.md): Introdução a teste de software
-1. [Assignment  1](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-1.md): Análise de competições de teste de software
-1. [Assignment  2](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-2.md): Análise de ferramentas usadas em Teste de Software
-1. [Assignment  3](https://github.com/TS-puc-20201/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-3.md): Análise, Derivação e Implementação de Teste Estrutural
-1. [Assignment  4](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-4.md): Análise e Execução e Implementação de Teste de Mutação
-1. [Assignment 5](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-5.md): Teste na Camada de Domínio
-1. [Assignment 6](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-6.md): Testes na Camada de Domínio e TDD
-1. [Assignment 7](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-7.md): Implementação na Camada de Domínio e TDD
-1. [Assignment 8](https://github.com/lesandropcodes/Teste-De-Software/blob/master/02-TrabalhosHandsOnOficinas/assignment_ts-8.md): Refatoração
+1. Assignment
 
 ## Material Online
 
@@ -50,8 +42,8 @@ A lista de materiais é dinâmica, novos materiais podem adicionados e alguns p
 
 Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md) está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Cada debate é baseado em dois artigos científicos. As informações dos debates estão disponíveis abaixo:
 
-* [Debate Estruturado 1](https://github.com/lesandropcodes/Teste-De-Software/blob/master/03-DebateEstruturado/TS-DebateEstruturado1.pdf)
-* [Debate Estruturado 2](https://github.com/lesandropcodes/Teste-De-Software/blob/master/03-DebateEstruturado/TS-DebateEstruturado2.pdf)
+* Debate Estruturado 1
+* Debate Estruturado 2
 
 ## Competições de Teste de Software
 
