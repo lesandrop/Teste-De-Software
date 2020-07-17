@@ -3,6 +3,8 @@
 ## Python ##
 * [unittest — Unit testing framework](https://docs.python.org/3/library/unittest.html)
 * [Testing Your Code](https://docs.python-guide.org/writing/tests/)
+* [MutPy](https://pypi.org/project/MutPy/)
+* [unittest.mock — mock object library](https://docs.python.org/3/library/unittest.mock.html)
 
 ## Java ##
 * [Java - Tutorial Junit](https://github.com/MooctestNJU/MOOCTEST-2019-Test-Competition)
