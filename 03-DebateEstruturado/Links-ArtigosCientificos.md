@@ -13,11 +13,11 @@
 
 ## Artigos debatidos em outras edições da disciplina
 
-1. 2020-1sem - Debate 2 - [Enhancing Acceptance Test-Driven Development with Model-Based Test Generation](https://doi.org/10.1109/QRS-C.2019.00096)
-1. 2020-1sem - Debate 2 - [Test-Driven Development in scientific software: a survey](https://doi.org/10.1007/s11219-015-9292-4)
-1. 2020-1sem - Debate 2 - [A decade of agile methodologies: Towards explaining agile software development](https://doi.org/10.1016/j.jss.2012.02.033)
-1. 2020-1sem - Debate 1 - [Quantitative Analysis of Faults and Failures in a Complex Software System](https://doi.org/10.1109/32.879815)
-1. 2020-1sem - Debate 1 - [Studying the coevolution of production and test code in open source and industrial developer test
+1. 2020-1sem - Debate Estruturado 2 - [Enhancing Acceptance Test-Driven Development with Model-Based Test Generation](https://doi.org/10.1109/QRS-C.2019.00096)
+1. 2020-1sem - Debate Estruturado 2 - [Test-Driven Development in scientific software: a survey](https://doi.org/10.1007/s11219-015-9292-4)
+1. 2020-1sem - Debate Estruturado 2 - [A decade of agile methodologies: Towards explaining agile software development](https://doi.org/10.1016/j.jss.2012.02.033)
+1. 2020-1sem - Debate Estruturado 1 - [Quantitative Analysis of Faults and Failures in a Complex Software System](https://doi.org/10.1109/32.879815)
+1. 2020-1sem - Debate Estruturado 1 - [Studying the coevolution of production and test code in open source and industrial developer test
 processes through repository mining](https://doi.org/10.1007/s10664-010-9143-7)
 ---
 
