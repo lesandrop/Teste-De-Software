@@ -20,7 +20,7 @@
 1. [:notebook: Estimativas, Medidas, Métricas e Indicadores em Gestão de Processo de Teste](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-09-EstimativaMedidaMetricaIndicadorGestaoTesteSoftware.pdf)
 1. [:notebook: Teste com Mock](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-10-TesteComMock.pdf)
 1. [:notebook: Introdução à TDD: Projeto e Qualidade de Projeto](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-11-AnaliseProjetoQualidade.pdf)
-1. [:notebook: Refatoração, Maus Cheiros e Catálogo de Refatarações](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-12-MausCheirosECatalogoDeRefatora%C3%A7%C3%A3o.pdf)
+1. [:notebook: Refatoração, Maus Cheiros e Catálogo de Refatorações](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-12-MausCheirosECatalogoDeRefatora%C3%A7%C3%A3o.pdf)
 1. [:notebook: Desenvolvimento Guiado por Testes (TDD)](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-13-TDD.pdf)
 
 
