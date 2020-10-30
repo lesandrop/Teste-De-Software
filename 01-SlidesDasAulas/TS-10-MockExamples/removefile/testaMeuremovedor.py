@@ -11,24 +11,30 @@ class RomovaTestCase(unittest.TestCase):
     
     @patch('meuremovedor.os.path')
     @patch('meuremovedor.os')
-    def test_remova(self, meuremovedor_os, meuremovedor_path):
+    def test_remova_naoexiste(self, meuremovedor_os, meuremovedor_path):
+
         # set up the mock
         meuremovedor_path.isfile = MagicMock(return_value=False)
         
-        flag = remova("any path")
+        flag = remova("arquivo não existe")
 
         #O arquivo não foi removido
         self.assertFalse(flag, "O arquivo a ser removido não existe")
 
-        # Este assert ser false mostra que os.remove NÃO foi chamado
+        # Este assert ser False mostra que os.remove NÃO foi chamado
         self.assertFalse(meuremovedor_os.remove.called, "Failed to not remove the file if not present.")
+    
         
+    @patch('meuremovedor.os.path')
+    @patch('meuremovedor.os')
+    def test_remova_existe(self, meuremovedor_os, meuremovedor_path):
+
         # make the file 'exist'
         meuremovedor_path.isfile = MagicMock(return_value=True)
         
-        flag = remova("any path")
+        flag = remova("arquivo existe")
 
-        #O arquivo foi removido
+        # Este assert ser True mostra que os.remove foi chamado
         self.assertTrue(flag, "O arquivo a ser removido existe")
               
-        meuremovedor_os.remove.assert_called_with("any path")
+        meuremovedor_os.remove.assert_called_with("arquivo existe")
