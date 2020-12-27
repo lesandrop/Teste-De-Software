@@ -1,4 +1,7 @@
-# Teste de Software
+# TESTE DE SOFTWARE
+
+**Lesandro Ponciano (PUC Minas)**
+
 ## Informações da Disciplina
 * Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
 * Turno: **Noturno**
@@ -26,7 +29,10 @@
 
 ## Assignments e Hands-on
 
-1. Assignment
+1. Hands-on 1 - Casos de Teste Funcionais
+1. Hands-on 2 - Casos de Teste Estruturais
+1. Hands-on 3 - Teste de Mutação
+1. Hands-on 4 - Teste de Mock
 
 ## Material Online
 
@@ -42,8 +48,8 @@ A lista de materiais é dinâmica, novos materiais podem adicionados e alguns p
 
 Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](https://github.com/lesandrop/Teste-De-Software/blob/master/03-DebateEstruturado/Links-ArtigosCientificos.md) está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Cada debate é baseado em dois artigos científicos. As informações dos debates estão disponíveis abaixo:
 
-* Debate Estruturado 1
-* Debate Estruturado 2
+* Debate Estruturado 1 - Geração de casos de teste e debugging
+* Debate Estruturado 2 - Métricas, indicadores e estimativas em teste de software
 
 ## Competições de Teste de Software
 
@@ -60,7 +66,7 @@ Se você ficou muito interessado nisso, procure-me para conversarmos mais!
 
 Neste repositório está o material da unidade curricular que pode ser mantido público. Trata-se de um material dinâmico, constantemente atualizado. Eventualmente, outros materiais, atividades e roteiros devem ser baixados diretamente do Sistema de Gerenciamento Acadêmico (SGA). Notas e correções de atividades são divulgadas exclusivamente pelo SGA. 
 
-Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Para atribuição dos pontos serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Se desejar saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](http://dx.doi.org/10.15346/hc.v1i2.12).
+Os estudantes da unidade curricular podem contribuir com correções e sugestões neste repositório por meio de _pull requests_, _issues_ e _comentários_. Tais contribuições poderão, ao fim do semestre, após análise do professor, serem pontuadas com até 3 pontos extras :nerd_face: na unidade curricular. Para atribuição dos pontos serão levadas em consideração quatro métricas de engajamento: _activity ratio_, _relative activity duration_, _daily devoted time_, e _variation in periodicity_. Se desejar saber mais sobre essas métricas, leia o artigo [Finding Volunteers' Engagement Profiles in Human Computation for Citizen Science Projects](https://hcjournal.org/index.php/jhc/article/view/12).
 
 ---
 
