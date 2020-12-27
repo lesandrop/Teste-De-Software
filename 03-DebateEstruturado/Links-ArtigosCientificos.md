@@ -9,6 +9,13 @@
 1. [Feedback-Based Debugging](https://doi.org/10.1109/ICSE.2017.43)
 1. [Back to the Future: Omniscient Debugging](https://doi.org/10.1109/MS.2009.169)
 1. [End-user debugging strategies: A sensemaking perspective](https://doi.org/10.1145/2147783.2147788)
+1. [Pragmatic Software Testing Education](https://dl.acm.org/doi/abs/10.1145/3287324.3287461)
+1. [An approach to enhance students' competency in software verification techniques](https://ieeexplore.ieee.org/abstract/document/7344050)
+1. [Are Static Analysis Violations Really Fixed? A Closer Look at Realistic Usage of SonarQube)[https://doi.org/10.1109/ICPC.2019.00040]
+1. [Can Faulty Modules Be Predicted by Warning Messages of Static Code Analyzer?](https://www.hindawi.com/journals/ase/2012/924923/)
+1. [Why don't software developers use static analysis tools to find bugs?](https://ieeexplore.ieee.org/abstract/document/6606613)
+1. [Critical thinking and debugging software](https://dl.acm.org/doi/abs/10.5555/2831373.2831392)
+
 
 
 ## Artigos debatidos em outras edições da disciplina
