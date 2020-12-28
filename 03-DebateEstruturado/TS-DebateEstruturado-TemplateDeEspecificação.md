@@ -22,7 +22,7 @@ Consiste na entrega de um único arquivo contendo 3 páginas.
 1. A página 3 deve conter uma composição escrita pelo(a) aluno(a) com análise inter-relacionando os conteúdos dos dois artigos (1 e 2). Ao escrever essa composição, deve-se enfatizar os resultados mais relevantes, surpreendentes ou passíveis de discussão. Nessa composição, deve-se, necessariamente, inter-relacionar e construir um ponto de vista sobre o que está sendo tratado nos dois artigos de referência. O tamanho mínimo da composição é de 30 linhas e o 
 máximo é de 40 linhas de texto (fonte Arial tamanho 12). O nome do(a) aluno(a) deve aparecer no fim da composição.
 
-* Para os fichamentos, deve-se seguir o [Template de Fichamento](ModeloFichamentoVE.docx) e o [Exemplo de Fichamento](ExemploFichamentoVE.pdf).
+* Para os fichamentos, deve-se seguir o _Template de Fichamento_ e os _Exemplos de Fichamento_ [dispibilizados](https://github.com/lesandrop/Introd-Pesq-Informatica/tree/master/03-MaterialDeFichamento).
 * A entrega da parte escrita deve ser feita pelo SGA até as [DATETIME]. Deve-se entregar tudo em apenas um arquivo em formato pdf.
 * Após a parte oral, a critério do professor, as análises escrita mais abrangentes poderão ser disponibilizadas toda a turma.
 
