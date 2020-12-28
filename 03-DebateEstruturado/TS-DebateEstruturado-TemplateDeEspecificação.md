@@ -2,7 +2,8 @@
 
 __Lesandro Ponciano__
 
-_Disciplina_: Teste de Software - 2020.2
+_Disciplina_: Teste de Software
+
 _Curso_: Engenharia de Software - PUC Minas - Praça da Liberdade
 
 
