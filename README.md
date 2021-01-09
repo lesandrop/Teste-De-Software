@@ -1,13 +1,10 @@
 # TESTE DE SOFTWARE
 
-**Lesandro Ponciano (PUC Minas)**
+**Lesandro Ponciano**
 
-## Informações da Disciplina
-* Curso: **Engenharia de Software na PUC Minas - Praça da Liberdade**
-* Turno: **Noturno**
-* Prof.: **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
-* Semestre: **2020.2**
-* Período: **7º período do curso**
+## Informações
+* Disciplina no Curso de **Engenharia de Software na PUC Minas - Praça da Liberdade**
+* Prof. **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
 
 ## Slides das Aulas Expositivas
 
@@ -70,4 +67,4 @@ Os estudantes da unidade curricular podem contribuir com correções e sugestõe
 
 ---
 
-_Lesandro Ponciano (lesandrop at pucminas.br) - PUC Minas_
+_Lesandro Ponciano (lesandrop at pucminas.br)
