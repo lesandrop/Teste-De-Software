@@ -24,12 +24,12 @@
 1. [:notebook: Desenvolvimento Guiado por Testes (TDD)](https://github.com/lesandropcodes/Teste-De-Software/blob/master/01-SlidesDasAulas/TS-13-TDD.pdf)
 
 
-## Assignments e Hands-on
+## Cartão de Suporte
 
-1. Hands-on 1 - Casos de Teste Funcionais
-1. Hands-on 2 - Casos de Teste Estruturais
-1. Hands-on 3 - Teste de Mutação
-1. Hands-on 4 - Teste de Mock
+Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo de todo o semestre. Ele é usado durante as aulas e em atividades. O conteúdo neste cartão não é exaustivo, mas o conteúdo coberto no cartão serve de ancora para o conteúdo que não foi incluído. Você pode acessá-lo nos links abaixo.
+* [:gift: Lado A e Lado B em formato pdf](04-CartaoDeSuporte/CartaoDeSuporte-TesteDeSoftware.pdf)
+* [:gift: Lado A em formato jpg](04-CartaoDeSuporte/CartaoDeSuporte-TesteDeSoftware-LadoA.jpg)
+* [:gift: Lado B em formato jpg](04-CartaoDeSuporte/CartaoDeSuporte-TesteDeSoftware-LadoB.jpg)
 
 ## Material Online
 
