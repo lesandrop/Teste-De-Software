@@ -28,8 +28,6 @@
 
 Criei um cartão de suporte que serve como resumo do conteúdo estudado ao longo de todo o semestre. Ele é usado durante as aulas e em atividades. O conteúdo neste cartão não é exaustivo, mas o conteúdo coberto no cartão serve de âncora para o conteúdo que não foi incluído. Você pode acessá-lo nos links abaixo.
 * [:gift: Lado A e Lado B em formato pdf](04-CartaoDeSuporte/CartaoDeSuporte-TesteDeSoftware.pdf)
-* [:gift: Lado A em formato jpg](04-CartaoDeSuporte/CartaoDeSuporte-TesteDeSoftware-LadoA.png)
-* [:gift: Lado B em formato jpg](04-CartaoDeSuporte/CartaoDeSuporte-TesteDeSoftware-LadoB.png)
 
 ## Material Online
 
