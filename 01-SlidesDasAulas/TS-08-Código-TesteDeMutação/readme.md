@@ -4,7 +4,7 @@ https://pypi.org/project/MutPy/
 
 > python -m pip install mutpy
 
-## Rodar dos casos de teste
+## Rodar os casos de teste
 
 > mut.py --target Foo --unit-test testaFoo -m
 
