@@ -1,0 +1,16 @@
+## Instalar o MutPy
+
+https://pypi.org/project/MutPy/
+
+> python -m pip install mutpy
+
+## Rodar dos casos de teste
+
+> mut.py --target Foo --unit-test testaFoo -m
+
+## Implementação e Relatório
+
+1. O arquivo ``Foo.py`` contém a implementação da funcionalidade;
+1. O arquivo ``testaFoo.py`` é a primeira versão da suíte de testes;
+1. O arquivo ``testaFoo2.py`` é a segunda versão da suíte de testes, gerada após a execução do teste de mutação;
+1. O arquivo ``out.txt`` contém o resultado final da execução do teste de mutação.
