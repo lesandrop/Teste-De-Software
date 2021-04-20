@@ -1,0 +1,133 @@
+[*] Start mutation process:
+   - targets: sd
+   - tests: testastd
+[*] 6 tests passed:
+   - testastd [0.01000 s]
+[*] Start mutants generation and execution:
+   - [#   1] AOR sd: 
+--------------------------------------------------------------------------------
+  14:     
+  15:     std = 0.0
+  16:     
+  17:     for i in data:
+- 18:         std += (float(i) - avg) ** 2
++ 18:         std += (float(i) + avg) ** 2
+  19:     
+  20:     std = math.sqrt(std / float(n - 1))
+  21:     
+  22:     return std
+--------------------------------------------------------------------------------
+[0.09894 s] killed by test_doisValoresDiferentesMutante (testastd.RomovaTestCase)
+   - [#   2] AOR sd: 
+--------------------------------------------------------------------------------
+  14:     
+  15:     std = 0.0
+  16:     
+  17:     for i in data:
+- 18:         std += (float(i) - avg) ** 2
++ 18:         std += (float(i) - avg) * 2
+  19:     
+  20:     std = math.sqrt(std / float(n - 1))
+  21:     
+  22:     return std
+--------------------------------------------------------------------------------
+[0.03598 s] killed by test_doisValoresDiferentesMutante (testastd.RomovaTestCase)
+   - [#   3] AOR sd: 
+--------------------------------------------------------------------------------
+  16:     
+  17:     for i in data:
+  18:         std += (float(i) - avg) ** 2
+  19:     
+- 20:     std = math.sqrt(std / float(n - 1))
++ 20:     std = math.sqrt(std // float(n - 1))
+  21:     
+  22:     return std
+--------------------------------------------------------------------------------
+[0.01299 s] killed by test_valorNegativo (testastd.RomovaTestCase)
+   - [#   4] AOR sd: 
+--------------------------------------------------------------------------------
+  16:     
+  17:     for i in data:
+  18:         std += (float(i) - avg) ** 2
+  19:     
+- 20:     std = math.sqrt(std / float(n - 1))
++ 20:     std = math.sqrt(std * float(n - 1))
+  21:     
+  22:     return std
+--------------------------------------------------------------------------------
+[0.00999 s] killed by test_valorNegativo (testastd.RomovaTestCase)
+   - [#   5] AOR sd: 
+--------------------------------------------------------------------------------
+  16:     
+  17:     for i in data:
+  18:         std += (float(i) - avg) ** 2
+  19:     
+- 20:     std = math.sqrt(std / float(n - 1))
++ 20:     std = math.sqrt(std / float(n + 1))
+  21:     
+  22:     return std
+--------------------------------------------------------------------------------
+[0.00500 s] killed by test_doisValoresDiferentesMutante (testastd.RomovaTestCase)
+   - [#   6] ASR sd: 
+--------------------------------------------------------------------------------
+  14:     
+  15:     std = 0.0
+  16:     
+  17:     for i in data:
+- 18:         std += (float(i) - avg) ** 2
++ 18:         std -= (float(i) - avg) ** 2
+  19:     
+  20:     std = math.sqrt(std / float(n - 1))
+  21:     
+  22:     return std
+--------------------------------------------------------------------------------
+[0.00600 s] killed by test_doisValoresDiferentesMutante (testastd.RomovaTestCase)
+   - [#   7] COI sd: 
+--------------------------------------------------------------------------------
+   6: 
+   7: def std_calc(data):
+   8:     
+   9:     n = len(data)
+- 10:     if n <= 1:
++ 10:     if not (n <= 1):
+  11:         return 0.0
+  12:     
+  13:     avg = mean.avg_calc(data)
+  14:     
+--------------------------------------------------------------------------------
+[0.00999 s] killed by test_doisValoresDiferentesMutante (testastd.RomovaTestCase)
+   - [#   8] ROR sd: 
+--------------------------------------------------------------------------------
+   6: 
+   7: def std_calc(data):
+   8:     
+   9:     n = len(data)
+- 10:     if n <= 1:
++ 10:     if n >= 1:
+  11:         return 0.0
+  12:     
+  13:     avg = mean.avg_calc(data)
+  14:     
+--------------------------------------------------------------------------------
+[0.00700 s] killed by test_doisValoresDiferentesMutante (testastd.RomovaTestCase)
+   - [#   9] ROR sd: 
+--------------------------------------------------------------------------------
+   6: 
+   7: def std_calc(data):
+   8:     
+   9:     n = len(data)
+- 10:     if n <= 1:
++ 10:     if n < 1:
+  11:         return 0.0
+  12:     
+  13:     avg = mean.avg_calc(data)
+  14:     
+--------------------------------------------------------------------------------
+Bom sábado, pessoal
+[0.01299 s] incompetent
+[*] Mutation score [1.46634 s]: 100.0%
+   - all: 9
+   - killed: 8 (88.9%)
+   - survived: 0 (0.0%)
+   - incompetent: 1 (11.1%)
+   - timeout: 0 (0.0%)
