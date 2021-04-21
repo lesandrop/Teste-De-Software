@@ -14,3 +14,4 @@ https://pypi.org/project/MutPy/
 1. O arquivo ``testaFoo.py`` é a primeira versão da suíte de testes;
 1. O arquivo ``testaFoo2.py`` é a segunda versão da suíte de testes, gerada após a execução do teste de mutação;
 1. O arquivo ``out.txt`` contém o resultado final da execução do teste de mutação.
+1. O arquivo ``coverage.txt`` contém o resultado final da execução da análise de cobertura com _statement_ e _branch_.
