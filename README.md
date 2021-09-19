@@ -3,7 +3,7 @@
 **Lesandro Ponciano**
 
 ## Informações
-* Disciplina no Curso de **Engenharia de Software na PUC Minas - Praça da Liberdade**
+* Disciplina no Curso de **Engenharia de Software**
 * Prof. **Lesandro Ponciano**  [[Lattes iD](http://lattes.cnpq.br/2211388362277178)] - [[Orcid iD](http://orcid.org/0000-0002-5724-0094)]
 
 ## Slides das Aulas Expositivas
@@ -65,4 +65,4 @@ Os estudantes da unidade curricular podem contribuir com correções e sugestõe
 
 ---
 
-_Lesandro Ponciano (lesandrop at pucminas.br)
+_Lesandro Ponciano (lesandro.ponciano@gmail.com)_
