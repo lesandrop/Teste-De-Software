@@ -32,9 +32,9 @@ class RomovaTestCase(unittest.TestCase):
         # make the file 'exist'
         meuremovedor_path.isfile = MagicMock(return_value=True)
         
-        flag = remova("arquivo existe")
+        flag = remova("ardsadsa")
 
         # Este assert ser True mostra que os.remove foi chamado
         self.assertTrue(flag, "O arquivo a ser removido existe")
               
-        meuremovedor_os.remove.assert_called_with("arquivo existe")
+        meuremovedor_os.remove.assert_called_with("ardsadsa")

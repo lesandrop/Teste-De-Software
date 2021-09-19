@@ -1,3 +1,4 @@
 def avg_calc(data):
-	print("Bom sábado, pessoal")
+	print("Boa segunda, pessoal")
+	print("Oi jogador")
 	pass
