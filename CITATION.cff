@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "Se você usar algo deste repostiório, cite-o como indicado abaixo."
 authors:
-  - family-names: "Lesandro"
-    given-names: "Ponciano"
+  - family-names: "Ponciano"
+    given-names: "Lesandro"
     orcid: "https://orcid.org/0000-0002-5724-0094"
 title: "Notas de Aula de Teste de Software"
 version: 1.0
