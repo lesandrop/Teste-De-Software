@@ -41,10 +41,7 @@ A lista de materiais é dinâmica, novos materiais podem adicionados e alguns p
 
 ## Artigos Científicos
 
-Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A [lista de artigos candidatos](03-DebateEstruturado/Links-ArtigosCientificos.md) está disponível. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Cada debate é baseado em dois artigos científicos. As informações dos debates estão disponíveis abaixo:
-
-* Debate Estruturado 1 - Geração de casos de teste e debugging
-* Debate Estruturado 2 - Métricas, indicadores e estimativas em teste de software
+Ao longo do semestre são realizadas atividades baseadas em artigos científicos. A atividade geralmente consiste em um [Debate Estruturado](https://doi.org/10.5753/ihc.2018.4209). Cada debate é baseado em dois artigos científicos. O [histórico de artigos científicos debatidos](03-DebateEstruturado/Links-ArtigosCientificos.md) está disponível neste repositório. 
 
 ## Competições de Teste de Software
 
