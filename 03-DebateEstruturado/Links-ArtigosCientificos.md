@@ -10,7 +10,7 @@ _A disciplina de Teste de Software (TS) ocorre semestralmente nos cursos de grad
 
 1. 2021-2sem - Debate Estruturado 2 - [Associações entre atributos do processo de desenvolvimento e quantidade de erros e warnings detectados por verificação estática](http://bib.pucminas.br:8080/pergamumweb/vinculos/000075/0000759b.pdf)
 1. 2021-2sem - Debate Estruturado 2 - [Experiences and insights from using Github Classroom to support Project-Based Courses](https://doi.org/10.1109/SEENG53126.2021.00013)
-1. 2021-2sem - Debate Estruturado 1 - [Aplicando Desenvolvimento Guiado por Testes para Auxiliar na Evolução de Arquiteturas Monolíticas para Microsserviçose](http://bib.pucminas.br:8080/pergamumweb/vinculos/000099/0000996d.pdf)
+1. 2021-2sem - Debate Estruturado 1 - [Aplicando Desenvolvimento Guiado por Testes para Auxiliar na Evolução de Arquiteturas Monolíticas para Microsserviços](http://bib.pucminas.br:8080/pergamumweb/vinculos/000099/0000996d.pdf)
 1. 2021-2sem - Debate Estruturado 1 - [Avaliação de Cenários de Uso da Programação em Pares pores Experiência de Desenvolvedores de Software, Trabalho em Progresso e Complexidade de Tarefass](http://bib.pucminas.br:8080/pergamumweb/vinculos/00008e/00008eb0.pdf)
 1. 2021-1sem - Debate Estruturado 2 - [A family of experiments on test-driven development](https://doi.org/10.1007/s10664-020-09895-8)
 1. 2021-1sem - Debate Estruturado 2 - [Test‑driven development with mutation testing - an experimental study](https://doi.org/10.1007/s11219-020-09534-x)
