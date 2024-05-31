@@ -1,3 +1,7 @@
+Este repositório está arquivado, pois todo o conteúdo de teste de software presente neste repositório foi atualizado e reestruturado. O material atual está disponível em https://github.com/lesandrop/site/tree/master/teaching/TS Esse material também pode ser acessado na seguinte página web https://lesandrop.github.io/site/teaching/TS
+
+
+
 # TESTE DE SOFTWARE
 
 **Lesandro Ponciano**
